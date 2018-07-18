@@ -1,4 +1,4 @@
-for our scraper
+// Controller for our scraper
 // ============================
 var db = require("../models");
 var scrape = require("../scripts/scrape");
