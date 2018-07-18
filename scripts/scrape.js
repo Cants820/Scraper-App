@@ -35,7 +35,8 @@ var scrape = function(cb) {
             };
               articles.push(dataToAdd);
             }
-         }
+         
+
 
       });
 
